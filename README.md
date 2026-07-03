@@ -137,17 +137,7 @@ An **IoT-powered cross-platform mobile application** built using **React Native,
 
 🎓 **CGPA: 3.58 / 4.00**
 
----
 
-## 🌱 Currently Learning
-
-- TypeScript
-- Advanced React Native
-- Mobile Performance Optimization
-- Clean Architecture
-- Advanced Firebase
-
----
 
 ## 📫 Let's Connect
 
