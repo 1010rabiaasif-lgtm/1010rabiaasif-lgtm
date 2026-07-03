@@ -20,8 +20,6 @@ I'm a passionate **React Native Mobile App Developer** with experience building 
 
 I enjoy developing real-world mobile solutions that solve practical problems—from healthcare applications to IoT-powered automation systems. My experience includes Firebase Authentication, Firestore, Realtime Database, REST APIs, role-based applications, and modern mobile UI development.
 
-🚀 **Currently seeking React Native Mobile App Developer opportunities in Saudi Arabia, UAE, and Remote teams.**
-
 ---
 
 ## 🛠 Tech Stack
