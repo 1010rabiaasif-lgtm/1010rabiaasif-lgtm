@@ -50,7 +50,6 @@ I enjoy developing real-world mobile solutions that solve practical problems—f
 ### 🎨 UI/UX
 - Responsive Mobile UI
 - Role-Based Navigation
-- Photoshop
 
 ---
 
